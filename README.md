@@ -3,7 +3,7 @@
 ## Introduction 👋
 Hello there! 👋 I'm Gouranga Das Samrat, a frontend web developer, and I'm excited to share my Daraz Clone project with you all. This project was built purely for learning and practice purposes as I continue to hone my web development skills. I have immense respect and gratitude for the original [Daraz platform](https://www.daraz.com.bd/). 🙏
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Coming%20Soon-blue)](https://your-live-demo-link-here.com) 🚀
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Coming%20Soon-blue)](https://darazclonebygouranga.netlify.app/) 🚀
 
 ## Features ✨
 * Homepage with product listings 🏠
